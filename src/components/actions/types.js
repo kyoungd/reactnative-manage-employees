@@ -1,0 +1,9 @@
+export const EMAIL_CHANGED = "email_changed";
+export const PASSWORD_CHANGED = "password_changed";
+export const LOGIN_USER_SUCCESS = "login_user_sucess";
+export const LOGIN_USER_FAILED = "login_user_failed";
+export const LOGIN_USER_START = "login_user_start";
+export const EMPLOYEE_UPDATE = "UPDATE_EMPLOYEE";
+export const EMPLOYEE_CREATE = 'CREATE_EMPLOYEE'
+export const EMPLOYEE_FETCH_SUCCESS = 'EMPLOYEE_FETCH_SUCCESS';
+export const EMPLOYEE_SAVE = 'EMPLOYEE_SAVE';
